@@ -1,0 +1,11 @@
+INPUT_FILE_NOT_FOUND:
+    code: 1
+    desc: input image not found
+
+CONFIG_FILE_NOT_FOUND:
+    code: 2
+    desc: config file not found.
+
+NO_CHECKPOINT_FOUND:
+    code: 3
+    desc: the specified checkpoint not found.

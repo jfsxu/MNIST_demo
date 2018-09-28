@@ -1,0 +1,25 @@
+model_definition:
+    conv_layer_total_num: 2
+    conv_layer_1_filter_height: 3
+    conv_layer_1_filter_width: 3
+    oonv_layer_1_neuron_num: 32
+    conv_layer_2_1_filter_height: 3
+    conv_layer_2_1_filter_width: 3
+    conv_layer_2_1_neuron_num: 64
+    conv_layer_2_2_filter_height: 3
+    conv_layer_2_2_filter_width: 3
+    conv_layer_2_2_neuron_num: 64
+    conv_layer_3_1_filter_height: 3
+    conv_layer_3_1_filter_width: 3
+    conv_layer_3_1_neuron_num: 256
+    conv_layer_3_2_filter_height: 3
+    conv_layer_3_2_filter_width: 3
+    conv_layer_3_2_neuron_num: 256
+    dense_layer_1_neuron_num: 1000
+    dense_layer_2_neuron_num: 500
+    image_height: 28
+    image_width: 28
+    label_dimention: 10
+
+model_train:
+    num_iterations: 5000
