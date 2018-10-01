@@ -9,6 +9,7 @@ This project is to implement a simple system which aims to recognize the hand wr
 You need to have the following installed:
 * Python 3.6.2
 * Tensorflow (cmd: “pip3 install --upgrade tensorflow”)
+* python yaml package: pip3 install pyyaml
 
 ## How to train the model
 The process is simple. Open a command prompt, go to your project directory, then run 
